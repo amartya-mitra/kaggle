@@ -1,2 +1,2 @@
 # Kaggle Challenges
-Attempts at a few Kaggle challenges
+Attempts at Kaggle challenges on Restaurant Revenue and Credit Card Fraud Predictions.
